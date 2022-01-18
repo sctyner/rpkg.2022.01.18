@@ -19,6 +19,7 @@
 
 # RStudio files
 .Rproj.user/
+rpkg.2022.01.18.Rproj
 
 # produced vignettes
 vignettes/*.html
